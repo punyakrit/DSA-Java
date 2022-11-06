@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="programme">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics/input.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="input">
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/inputProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/inputSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBasics/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBasics/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.input">
+  <component name="RunManager" selected="Application.inputProduct">
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBasics.Variables" />
       <module name="DSA Java" />
@@ -52,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstProgramme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.firstProgramme" />
+    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.input" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.input" />
+    <configuration name="inputProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.inputProduct" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inputSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.inputSum" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -93,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inputProduct" />
+        <item itemvalue="Application.inputSum" />
         <item itemvalue="Application.input" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.printingPattern" />
-        <item itemvalue="Application.firstProgramme" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667652619542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="input">
+      <created>1667655074129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667655074130</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -159,6 +181,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="demo" />
     <MESSAGE value="programme" />
-    <option name="LAST_COMMIT_MESSAGE" value="programme" />
+    <MESSAGE value="input" />
+    <option name="LAST_COMMIT_MESSAGE" value="input" />
   </component>
 </project>
