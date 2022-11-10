@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="operator">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/PracticeQuestions/IncomeTaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/PracticeQuestions/LargestOf2Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/PracticeQuestions/LargestOf3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/PracticeQuestions/numberIsOddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/else_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatement/if_else.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="loop Statement">
+      <change afterPath="$PROJECT_DIR$/src/Loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/PrintNumbersFrom1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/PrintSquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/PrintnoFrom1To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/SumOfFirstNNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/whileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +43,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestOf3Numbers">
-    <configuration name="IncomeTaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement.PracticeQuestions.IncomeTaxCalculator" />
+  <component name="RunManager" selected="Application.PrintSquarePattern">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.ForLoop" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatement.PracticeQuestions.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOf2Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement.PracticeQuestions.LargestOf2Numbers" />
+    <configuration name="PrintNumbersFrom1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.PrintNumbersFrom1ToN" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatement.PracticeQuestions.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOf3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement.PracticeQuestions.LargestOf3Numbers" />
+    <configuration name="PrintSquarePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.PrintSquarePattern" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatement.PracticeQuestions.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="else_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement.else_if" />
+    <configuration name="PrintnoFrom1To10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.PrintnoFrom1To10" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatement.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberIsOddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement.PracticeQuestions.numberIsOddOrEven" />
+    <configuration name="SumOfFirstNNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.SumOfFirstNNaturalNumbers" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionalStatement.PracticeQuestions.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestOf3Numbers" />
-        <item itemvalue="Application.IncomeTaxCalculator" />
-        <item itemvalue="Application.else_if" />
-        <item itemvalue="Application.numberIsOddOrEven" />
-        <item itemvalue="Application.LargestOf2Numbers" />
+        <item itemvalue="Application.PrintSquarePattern" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.SumOfFirstNNaturalNumbers" />
+        <item itemvalue="Application.PrintNumbersFrom1ToN" />
+        <item itemvalue="Application.PrintnoFrom1To10" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667910452026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="loop Statement">
+      <created>1668003354288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668003354288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -211,6 +217,7 @@
     <MESSAGE value="type conversion" />
     <MESSAGE value="type casting" />
     <MESSAGE value="operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator" />
+    <MESSAGE value="loop Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop Statement" />
   </component>
 </project>
