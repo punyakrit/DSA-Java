@@ -7,6 +7,7 @@ public class PrintSquarePattern {
                 System.out.print("*");
             }
             System.out.println(" ");
+
         }
     }
 }
