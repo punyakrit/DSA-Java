@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="functions">
-      <change afterPath="$PROJECT_DIR$/src/Functions/FunctionOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/BinomialCoefficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/FactorialOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/ProductOfNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/SwapingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/FunctionOverloadingDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/CheckPrimeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/PrimeInRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +41,22 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinomialCoefficient">
+  <component name="RunManager" selected="Application.PrimeInRange">
     <configuration name="BinomialCoefficient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.Problems.BinomialCoefficient" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Problems.CheckPrimeNo" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionExample" />
+    <configuration name="FunctionOverloadingDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.FunctionOverloadingDataTypes" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.Problems.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,21 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Problems.ProductOfNo" />
-      <module name="DSA Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Functions.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Problems.SwapingNumber" />
+    <configuration name="PrimeInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Problems.PrimeInRange" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeInRange" />
+        <item itemvalue="Application.CheckPrimeNo" />
+        <item itemvalue="Application.FunctionOverloadingDataTypes" />
         <item itemvalue="Application.BinomialCoefficient" />
         <item itemvalue="Application.FactorialOfN" />
-        <item itemvalue="Application.ProductOfNo" />
-        <item itemvalue="Application.SwapingNumber" />
-        <item itemvalue="Application.FunctionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668451110849</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="functions">
+      <created>1668538831880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668538831880</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
