@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_2/InvertedHalfPyramidWithNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_2/InvertedandRotatedHalfPyramid.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Pattern new">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/ButterFlyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/FloydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/HollowRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/TrianglePattern0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_2/solidRhombus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_2/PrintHollowRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_2/PrintHollowRectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,35 +44,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InvertedHalfPyramidWithNumbers">
-    <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Problems.BinaryToDecimal" />
-      <module name="DSA Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Functions.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Problems.DecimalToBinary" />
-      <module name="DSA Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Functions.Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InvertedHalfPyramidWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_2.InvertedHalfPyramidWithNumbers" />
+  <component name="RunManager" selected="Application.Diamond">
+    <configuration name="ButterFlyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_2.ButterFlyPattern" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertedandRotatedHalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_2.InvertedandRotatedHalfPyramid" />
+    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_2.Diamond" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +71,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintHollowRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_2.PrintHollowRectangle" />
+    <configuration name="HollowRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_2.HollowRhombus" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrianglePattern0_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_2.TrianglePattern0_1" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solidRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_2.solidRhombus" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InvertedHalfPyramidWithNumbers" />
-        <item itemvalue="Application.InvertedandRotatedHalfPyramid" />
-        <item itemvalue="Application.PrintHollowRectangle" />
-        <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.BinaryToDecimal" />
+        <item itemvalue="Application.Diamond" />
+        <item itemvalue="Application.HollowRhombus" />
+        <item itemvalue="Application.ButterFlyPattern" />
+        <item itemvalue="Application.solidRhombus" />
+        <item itemvalue="Application.TrianglePattern0_1" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668775993639</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pattern new">
+      <created>1668799682333</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668799682333</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -294,6 +304,7 @@
     <MESSAGE value="functions prime" />
     <MESSAGE value="Decimal Convertor" />
     <MESSAGE value="Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern" />
+    <MESSAGE value="Pattern new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern new" />
   </component>
 </project>
