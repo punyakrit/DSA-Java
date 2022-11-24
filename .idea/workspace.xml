@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="question">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Question/BuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BuyAndSellStocks">
-    <configuration name="BuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Question.BuyAndSellStocks" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Question.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.PairInArray" />
+    <configuration name="BuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Question.BuyAndSellStocks" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="DSA_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BuyAndSellStocks" />
         <item itemvalue="Application.TrappingRainwater" />
         <item itemvalue="Application.kadanesSubarray" />
         <item itemvalue="Application.subArray" />
-        <item itemvalue="Application.PairInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669227411837</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="question">
+      <created>1669228165423</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669228165423</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
