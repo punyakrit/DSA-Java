@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="2d" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="2d">
+      <change afterPath="$PROJECT_DIR$/src/Array_2D/DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_2D/SearchInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Question/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +48,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.first">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.SearchInSortedMatrix">
+    <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.DiagonalSum" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
+    <configuration name="SearchInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.SearchInSortedMatrix" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Question.SpiralMatrix" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="DSA_Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInSortedMatrix" />
+        <item itemvalue="Application.DiagonalSum" />
+        <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.first" />
         <item itemvalue="Application.InBuildSort" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669481945631</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2d">
+      <created>1669561430204</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669561430204</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
