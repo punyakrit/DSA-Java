@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="2d array">
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="2d">
+      <change afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +46,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SearchInSortedMatrix">
-    <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.DiagonalSum" />
+  <component name="RunManager" selected="Application.Basic">
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Basic" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InBuildSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InBuildSort" />
+    <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.DiagonalSum" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Basic" />
         <item itemvalue="Application.SearchInSortedMatrix" />
         <item itemvalue="Application.DiagonalSum" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.first" />
-        <item itemvalue="Application.InBuildSort" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669653463502</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2d">
+      <created>1669743480422</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669743480422</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -403,8 +411,8 @@
     <MESSAGE value="sub array" />
     <MESSAGE value="question" />
     <MESSAGE value="sorting" />
-    <MESSAGE value="2d" />
     <MESSAGE value="2d array" />
-    <option name="LAST_COMMIT_MESSAGE" value="2d array" />
+    <MESSAGE value="2d" />
+    <option name="LAST_COMMIT_MESSAGE" value="2d" />
   </component>
 </project>
