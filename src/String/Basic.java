@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Basic {
 
+    public static void print(String name){
+        for (int i = 0; i <name.length() ; i++) {
+            System.out.print(name.charAt(i)+ " ");
+        }
+
+    }
+
     public static void main(String[] args) {
 /*
         char arr[] = {'a','b','c','d'};
@@ -20,8 +27,17 @@ public class Basic {
         System.out.println("full name : "+name);
 */
 
-        String name= "Hello World";
-        System.out.println(name.length());
+//        String name= "Hello World";
+//        System.out.println(name.length());
+//
+
+
+        //concatenation
+
+        String fname = "d2edc67182";
+        String lname = "Singh";
+        String fullName = fname+ " " + lname;
+        print(fullName);
 
     }
 }
