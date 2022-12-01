@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="string">
-      <change afterPath="$PROJECT_DIR$/src/String/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/shortestPath.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="strings">
+      <change afterPath="$PROJECT_DIR$/src/String/LargestString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +49,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SubString">
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Basic" />
+  <component name="RunManager" selected="Application.UpperCaseString">
+    <configuration name="Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Comparison" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Comparison" />
+    <configuration name="LargestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.LargestString" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.shortestPath" />
+    <configuration name="UpperCaseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.UpperCaseString" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UpperCaseString" />
+        <item itemvalue="Application.LargestString" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.Comparison" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.shortestPath" />
-        <item itemvalue="Application.Basic" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669829540335</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="strings">
+      <created>1669842701828</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669842701828</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -399,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="demo" />
     <MESSAGE value="programme" />
     <MESSAGE value="input" />
     <MESSAGE value="type conversion" />
@@ -424,6 +429,7 @@
     <MESSAGE value="2d array" />
     <MESSAGE value="2d" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="strings" />
   </component>
 </project>
