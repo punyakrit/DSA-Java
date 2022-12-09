@@ -15,5 +15,6 @@ public class Basic {
 
         System.out.println( 6 >> 1 );
 
+
     }
 }
