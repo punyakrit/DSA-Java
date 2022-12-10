@@ -4,6 +4,10 @@ public class Basic {
 
     public static void main(String[] args) {
         Pen p1 = new Pen();
+        p1.setColor("blue");
+        System.out.println(p1.color);
+        p1.setTip(5);
+        System.out.println(p1.tip);
     }
 }
 
