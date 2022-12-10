@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="bit" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="bit-1">
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Pen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -432,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670506994784</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="bit-1">
+      <created>1670606663896</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670606663896</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -458,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="input" />
     <MESSAGE value="type conversion" />
     <MESSAGE value="type casting" />
     <MESSAGE value="operator" />
@@ -483,6 +493,7 @@
     <MESSAGE value="strings" />
     <MESSAGE value="string" />
     <MESSAGE value="bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="bit" />
+    <MESSAGE value="bit-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="bit-1" />
   </component>
 </project>
