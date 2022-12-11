@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="bit-1">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Pen.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,7 +441,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670606663896</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Oops">
+      <created>1670668846930</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1670668846930</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Oops-1">
+      <created>1670669009848</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1670669009848</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -469,8 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type conversion" />
-    <MESSAGE value="type casting" />
     <MESSAGE value="operator" />
     <MESSAGE value="loop Statement" />
     <MESSAGE value="while loop" />
@@ -494,6 +504,8 @@
     <MESSAGE value="string" />
     <MESSAGE value="bit" />
     <MESSAGE value="bit-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="bit-1" />
+    <MESSAGE value="Oops" />
+    <MESSAGE value="Oops-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops-1" />
   </component>
 </project>
