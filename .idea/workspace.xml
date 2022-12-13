@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-1">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/GettersAndSetters.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-3">
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Constructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Pen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/GettersAndSetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/GettersAndSetters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccessModifiers">
+  <component name="RunManager" selected="Application.Constructor">
     <configuration name="AccessModifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.AccessModifiers" />
       <module name="DSA Java" />
@@ -79,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.LargestString" />
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Constructor" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructor" />
         <item itemvalue="Application.AccessModifiers" />
         <item itemvalue="Application.OOPS.Basic" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.UpperCaseString" />
-        <item itemvalue="Application.LargestString" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670855509613</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Oops-3">
+      <created>1670940219468</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1670940219468</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -499,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="operator" />
     <MESSAGE value="loop Statement" />
     <MESSAGE value="while loop" />
     <MESSAGE value=" loop" />
@@ -524,6 +528,7 @@
     <MESSAGE value="bit-1" />
     <MESSAGE value="Oops" />
     <MESSAGE value="Oops-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oops-1" />
+    <MESSAGE value="Oops-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops-3" />
   </component>
 </project>

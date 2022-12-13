@@ -22,14 +22,18 @@ class Pencil{
     }
 
     int getTip(){
+//        to get the private value to other class
         return this.tip;
     }
 
     void setColor(String newColor){
+//        to get the private value to other class
+
         color = newColor;
     }
 
     void setTip(int newTip){
         tip = newTip;
     }
+
 }
