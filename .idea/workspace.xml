@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-5">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Interface.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-6">
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +50,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Interface">
+  <component name="RunManager" selected="Application.Super">
     <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.AbstractClass" />
-      <module name="DSA Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Constructor" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Super" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Super" />
         <item itemvalue="Application.Interface" />
         <item itemvalue="Application.AbstractClass" />
         <item itemvalue="Application.FunctionOverloading" />
         <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.Constructor" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00003" summary="programme">
-      <created>1667652619542</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667652619542</updated>
     </task>
     <task id="LOCAL-00004" summary="input">
       <created>1667655074129</created>
@@ -479,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671040854777</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Oops-6">
+      <created>1671107084206</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107084207</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -505,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" loop" />
     <MESSAGE value="loops" />
     <MESSAGE value="loop" />
     <MESSAGE value="functions" />
@@ -530,6 +528,7 @@
     <MESSAGE value="Oops-3" />
     <MESSAGE value="Oops-4" />
     <MESSAGE value="Oops-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oops-5" />
+    <MESSAGE value="Oops-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops-6" />
   </component>
 </project>
