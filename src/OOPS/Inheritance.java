@@ -15,7 +15,7 @@ public class Inheritance {
 class Animal{
     String color;
 
-    void eat(){
+     void eat(){
         System.out.println("Eats");
     }
 
