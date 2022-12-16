@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="recursion-1">
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/PrintDecreasingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/PrintIncreasingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/SumOfNaturalNumbers.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="recursion-2">
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/FirstOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/IfArrayIsSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion_Basic/basic.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciNumber">
+  <component name="RunManager" selected="Application.FirstOccurrence">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion_Basic.Factorial" />
       <module name="DSA Java" />
@@ -81,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintDecreasingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.PrintDecreasingOrder" />
+    <configuration name="FirstOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.FirstOccurrence" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintIncreasingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.PrintIncreasingOrder" />
+    <configuration name="IfArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.IfArrayIsSorted" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstOccurrence" />
+        <item itemvalue="Application.IfArrayIsSorted" />
         <item itemvalue="Application.FibonacciNumber" />
         <item itemvalue="Application.SumOfNaturalNumbers" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.PrintIncreasingOrder" />
-        <item itemvalue="Application.PrintDecreasingOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -138,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00005" summary="type conversion">
-      <created>1667761151093</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1667761151093</updated>
     </task>
     <task id="LOCAL-00006" summary="type casting">
       <created>1667848081829</created>
@@ -482,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671110823773</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="recursion-2">
+      <created>1671194603335</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1671194603335</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -508,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="loop" />
     <MESSAGE value="functions" />
     <MESSAGE value="functions prime" />
     <MESSAGE value="Decimal Convertor" />
@@ -533,6 +528,7 @@
     <MESSAGE value="Oops-5" />
     <MESSAGE value="Oops-6" />
     <MESSAGE value="recursion-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion-1" />
+    <MESSAGE value="recursion-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion-2" />
   </component>
 </project>
