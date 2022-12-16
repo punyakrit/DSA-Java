@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="Oops-6">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/basic.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="recursion-1">
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/PrintDecreasingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/PrintIncreasingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Basic/SumOfNaturalNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion_Basic/basic.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +54,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Super">
-    <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.AbstractClass" />
+  <component name="RunManager" selected="Application.FibonacciNumber">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.Factorial" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Recursion_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.FunctionOverloading" />
+    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.FibonacciNumber" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Recursion_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Inheritance" />
+    <configuration name="PrintDecreasingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.PrintDecreasingOrder" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Recursion_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Interface" />
+    <configuration name="PrintIncreasingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.PrintIncreasingOrder" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Recursion_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Super" />
+    <configuration name="SumOfNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.SumOfNaturalNumbers" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Recursion_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Super" />
-        <item itemvalue="Application.Interface" />
-        <item itemvalue="Application.AbstractClass" />
-        <item itemvalue="Application.FunctionOverloading" />
-        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.FibonacciNumber" />
+        <item itemvalue="Application.SumOfNaturalNumbers" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.PrintIncreasingOrder" />
+        <item itemvalue="Application.PrintDecreasingOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00004" summary="input">
-      <created>1667655074129</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1667655074130</updated>
     </task>
     <task id="LOCAL-00005" summary="type conversion">
       <created>1667761151093</created>
@@ -478,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671107084207</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="recursion-1">
+      <created>1671110823773</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1671110823773</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -504,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="loops" />
     <MESSAGE value="loop" />
     <MESSAGE value="functions" />
     <MESSAGE value="functions prime" />
@@ -529,6 +532,7 @@
     <MESSAGE value="Oops-4" />
     <MESSAGE value="Oops-5" />
     <MESSAGE value="Oops-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oops-6" />
+    <MESSAGE value="recursion-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion-1" />
   </component>
 </project>
