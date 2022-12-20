@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="recursion-4">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00008" summary="loop Statement">
-      <created>1668003354288</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1668003354288</updated>
     </task>
     <task id="LOCAL-00009" summary="while loop">
       <created>1668087674258</created>
@@ -478,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671272414177</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="sorting">
+      <created>1671367456989</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1671367456990</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -512,7 +510,6 @@
     <MESSAGE value="search" />
     <MESSAGE value="sub array" />
     <MESSAGE value="question" />
-    <MESSAGE value="sorting" />
     <MESSAGE value="2d array" />
     <MESSAGE value="2d" />
     <MESSAGE value="strings" />
@@ -529,6 +526,7 @@
     <MESSAGE value="recursion-2" />
     <MESSAGE value="recursion-3" />
     <MESSAGE value="recursion-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion-4" />
+    <MESSAGE value="sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
   </component>
 </project>
