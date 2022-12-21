@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="sorting">
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/BacktrackingOnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/FindSubsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +50,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
+  <component name="RunManager" selected="Application.FindSubsets">
+    <configuration name="BacktrackingOnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.BacktrackingOnArray" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.PowerOfN" />
+    <configuration name="FindSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.FindSubsets" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_Basic.*" />
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_Basic.TilingProblem" />
-      <module name="DSA Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion_Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSubsets" />
+        <item itemvalue="Application.BacktrackingOnArray" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.TilingProblem" />
-        <item itemvalue="Application.PowerOfN" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00009" summary="while loop">
-      <created>1668087674258</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1668087674258</updated>
     </task>
     <task id="LOCAL-00010" summary=" loop">
       <created>1668189636829</created>
@@ -476,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671367456990</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="sorting">
+      <created>1671548937719</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1671548937720</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
