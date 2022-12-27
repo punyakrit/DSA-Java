@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="arraylist">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/MostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/MultiDimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Sorting.java" afterDir="false" />
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="arraylist 2">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/PairSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mmeha/Downloads/algorithm-writer-master/algorithm-writer-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MostWater">
+  <component name="RunManager" selected="Application.PairSum">
     <configuration name="Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.Maximum" />
       <module name="DSA Java" />
@@ -91,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.Reverse" />
+    <configuration name="PairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.PairSum" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairSum" />
         <item itemvalue="Application.MostWater" />
         <item itemvalue="Application.MultiDimensional" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Maximum" />
-        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00016" summary="functions prime">
-      <created>1668621434899</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1668621434899</updated>
     </task>
     <task id="LOCAL-00017" summary="Decimal Convertor">
       <created>1668688571048</created>
@@ -479,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672054964226</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="arraylist 2">
+      <created>1672073075081</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1672073075082</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -505,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search" />
     <MESSAGE value="sub array" />
     <MESSAGE value="question" />
     <MESSAGE value="2d array" />
@@ -530,6 +527,7 @@
     <MESSAGE value="N Queens problem" />
     <MESSAGE value="Sudoku solver" />
     <MESSAGE value="arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraylist" />
+    <MESSAGE value="arraylist 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="arraylist 2" />
   </component>
 </project>
