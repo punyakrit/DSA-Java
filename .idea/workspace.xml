@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="arraylist 2">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/AddinginLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Decimal Convertor">
-      <created>1668688571048</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1668688571048</updated>
     </task>
     <task id="LOCAL-00018" summary="Pattern">
       <created>1668775993639</created>
@@ -477,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672073075082</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="arraylist 2">
+      <created>1672146378676</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1672146378676</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
