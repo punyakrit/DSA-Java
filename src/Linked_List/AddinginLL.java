@@ -23,6 +23,7 @@ public class AddinginLL {
 
         if(head == null){
             head = tail = null;
+
         }
 
         // newNode next = head
