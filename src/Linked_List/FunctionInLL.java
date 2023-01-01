@@ -1,6 +1,6 @@
 package Linked_List;
 
-public class AddingInLL {
+public class FunctionInLL {
 
 /*
     for adding new ll in first place
@@ -26,6 +26,8 @@ public static Node head;
 public static Node tail;
 public static int size;
 
+
+            //          ADDING IN LINKED LIST
 
 //    Adding in-front  O(1)
 
@@ -75,6 +77,56 @@ public static int size;
 
     }
 
+
+
+    //          REMOVING IN LINKED LIST
+
+
+    // Removing in first in LL
+    public int removeFirst(){
+            if(size == 0){
+                System.out.println("LL is empty");
+                return Integer.MIN_VALUE;
+            } else if (size ==1 ) {
+                int val = head.data;
+                head =tail = null;
+                size=0;
+                return val;
+
+            }
+
+        int val = head.data;
+        head = head.next;
+        size--;
+        return val;
+    }
+
+    //      Remove last in ll
+    public int removeLast(){
+        if(size == 0) {
+            System.out.println("LL is empty");
+            return Integer.MIN_VALUE;
+        }else if (size ==1 ) {
+            int val = head.data;
+            head = tail = null;
+            size = 0;
+            return val;
+        }
+        Node prev = head;
+        for (int i = 0; i <size -2 ; i++) {
+            prev = prev.next;
+        }
+        int val = prev.next.data;
+        prev.next = null;
+        tail = prev;
+        size--;
+        return  val;
+        
+        }
+    
+
+//              PRINTING IN LINKED LIST
+
     public void print(){ //O(n)
 
             Node temp = head;
@@ -86,19 +138,35 @@ public static int size;
     }
 
 
+    //              SEARCHING IN LINKED LIST
+
+    public int itrSearch(int key){
+            Node temp = head;
+            int i= 0;
+            while (temp != null){
+                if (temp.data == key ){
+                    return  i;
+                }
+                temp = temp.next;
+                i++;
+        }
+            return  -1;
+    }
+
 
     public static void main(String[] args) {
-        AddingInLL ll = new AddingInLL();
-
+        FunctionInLL ll = new FunctionInLL();
         ll.addFirst(1);
-
         ll.addFirst(2);
-
         ll.addLast(3);
         ll.addLast(4);
-        ll.print();
         ll.middleLL(2 ,9);
         ll.print();
-        System.out.println(ll.size);
+//        System.out.println(ll.size);
+//        ll.removeFirst();
+//        ll.print();
+//        ll.removeLast();
+//        ll.print();
+        System.out.println(ll.itrSearch(3));
     }
 }
