@@ -153,6 +153,41 @@ public static int size;
             return  -1;
     }
 
+    //          SEARCH IN RECURSION
+        public int helper(Node head , int key){
+            if (head == null){
+                return -1;
+            }
+            if (head.data == key){
+                return 0;
+            }
+            int idx = helper(head.next , key);
+            if (idx == -1){
+                return  -1;
+            }
+            return  idx+1;
+
+        }
+        public int recSearch(int key){
+            return helper(head , key);
+        }
+
+
+//        REVERSE A LINKED LIST
+
+    public void revLL(){//   O(n)
+            Node prev = null;
+            Node curr = tail = head;
+            Node next;
+            while (curr!= null){
+                next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+            head = prev;
+    }
+
 
     public static void main(String[] args) {
         FunctionInLL ll = new FunctionInLL();
@@ -167,6 +202,9 @@ public static int size;
 //        ll.print();
 //        ll.removeLast();
 //        ll.print();
-        System.out.println(ll.itrSearch(3));
+//        System.out.println(ll.itrSearch(3));
+//        System.out.println(ll.recSearch(9));
+        ll.revLL();
+        ll.print();
     }
 }
