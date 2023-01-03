@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="link-list 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linked_List/FunctionInLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/FunctionInLL.java" afterDir="false" />
-    </list>
+    <list default="true" id="208a9592-57aa-47bf-9c04-24691d671b2c" name="Changes" comment="link-list 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667640196369</updated>
-    </task>
-    <task id="LOCAL-00021" summary="array">
-      <created>1668941140128</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1668941140128</updated>
     </task>
     <task id="LOCAL-00022" summary="search">
       <created>1669041982568</created>
@@ -477,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672595445680</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="link-list 5">
+      <created>1672681584540</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1672681584541</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -503,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2d array" />
     <MESSAGE value="2d" />
     <MESSAGE value="strings" />
     <MESSAGE value="string" />
@@ -528,6 +524,7 @@
     <MESSAGE value="arraylist 2" />
     <MESSAGE value="link-list 3" />
     <MESSAGE value="link-list 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="link-list 4" />
+    <MESSAGE value="link-list 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="link-list 5" />
   </component>
 </project>

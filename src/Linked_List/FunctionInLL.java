@@ -185,6 +185,7 @@ public static int size;
                 prev = curr;
                 curr = next;
             }
+
             head = prev;
     }
 
