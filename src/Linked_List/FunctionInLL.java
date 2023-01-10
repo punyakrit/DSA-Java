@@ -214,16 +214,68 @@ public static int size;
             return;
     }
 
+    //if ll is cycle floydes cycles finding algo
+
+    public static boolean isCycle(){
+            Node slow = head;
+            Node fast = head;
+
+            while (fast!= null && fast.next != null){
+                slow = slow.next;
+                fast = fast.next.next;
+                if (slow == fast){
+                    return true;
+                }
+            }
+            return false;
+    }
+
+
+    //      Removing cycle in LL
+
+    public static void removeCycle(){
+            //detect cycle
+        Node slow = head;
+        Node fast = head;
+        boolean cycle =false;
+        while (fast!= null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if (slow == fast){
+                cycle = true;
+                break;
+            }
+        }
+        if (cycle == false){
+            return;
+        }
+
+        // finding meeting points
+
+        slow = head;
+        Node prev = null; // last Node
+        while (slow != fast){
+            prev = fast;
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+
+//      remove cycle -> last.next = null
+        prev.next = null;
+
+    }
+
 
 
     public static void main(String[] args) {
         FunctionInLL ll = new FunctionInLL();
-        ll.addFirst(1);
-        ll.addFirst(2);
-        ll.addLast(3);
-        ll.addLast(4);
-        ll.middleLL(2 ,9);
-        ll.print();
+//        ll.addFirst(1);
+//        ll.addFirst(2);
+//        ll.addLast(3);
+//        ll.addLast(4);
+//        ll.middleLL(2 ,9);
+//        ll.print();
 //        System.out.println(ll.size);
 //        ll.removeFirst();
 //        ll.print();
@@ -231,7 +283,35 @@ public static int size;
 //        ll.print();
 //        System.out.println(ll.itrSearch(3));
 //        System.out.println(ll.recSearch(9));
-        ll.revLL();
-        ll.print();
+//        ll.revLL();
+
+
+        /*
+
+
+//        cycle part
+
+        head = new Node(1);
+        head.next = new Node(2);
+        head.next.next = new Node(3);
+        head.next.next.next = head;
+//        1 -> 2 -> 3 -> 1
+        System.out.println(isCycle());
+
+         */
+
+        //      Removing cycle in ll
+
+        head = new Node(1);
+        Node temp = new Node(2);
+        head.next =temp;
+
+        head.next.next = new Node(3);
+        head.next.next.next = temp;
+//        1 , 2 ,3 ,2
+        System.out.println(isCycle());
+        removeCycle();
+        System.out.println(isCycle());
+
     }
 }
